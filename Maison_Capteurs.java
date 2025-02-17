@@ -11,6 +11,10 @@ public class Maison_Capteurs extends Observable {
         EtatCapteur = etatCapteur;
     }
 
+//    cervbsjdhgbeurvcybjsdvhbrv
+//    svchbvuhrbsjdvhgrbvuyrbsjdvhbrrv
+//    skvjbhevjhbsvjsvbsvbsrvsebv
+
     public enum TypeCapteur {
         LUMINOSITE, MOUVEMENT, TEMPERATURE
     };
